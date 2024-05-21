@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1712522171 source:d:\ds\user_manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713737936 source:d:\term_projects\user_manager\global.c
+
+1715128312 source:d:\term_projects\user_manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"User_Manager.h"
+	"helper.h"
+
+1714278482 d:\term_projects\user_manager\global.h
+
+1714278482 d:\term_projects\user_manager\user_manager.h
+
+1715131555 source:d:\term_projects\user_manager\user_manager.c
+	"User_Manager.h"
+	<stdio.h>
+	"Global.h"
+
+1715127069 source:d:\term_projects\user_manager\helper.c
+	"helper.h"
+	<stdio.h>
+	"Global.h"
+
+1715127069 d:\term_projects\user_manager\helper.h
+
+1715364686 source:d:\swe\term_projects\user_manager\helper.c
+	"helper.h"
+	<stdio.h>
+	"Global.h"
+
+1715127069 d:\swe\term_projects\user_manager\helper.h
+
+1714278482 d:\swe\term_projects\user_manager\global.h
+
+1715364716 source:d:\swe\term_projects\user_manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"User_Manager.h"
+	"helper.h"
+
+1714278482 d:\swe\term_projects\user_manager\user_manager.h
+
+1715131555 source:d:\swe\term_projects\user_manager\user_manager.c
+	"User_Manager.h"
+	<stdio.h>
+	"Global.h"
+
